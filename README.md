@@ -19,14 +19,11 @@ This project is an interactive E-Commerce Analytics Dashboard created using Powe
 
 ## Dashboard Screenshots
 
-### Overview Dashboard
-![Overview](screenshots/overview.png)
+![Overview](Overview.png)
 
-### Customer Dashboard
-![Customer](screenshots/customer.png)
+![Customer](Customer.png)
 
-### Payment Dashboard
-![Payment](screenshots/payment.png)
+![Payment](Payment.png)
 
 ## Key Insights
 - Electronics category generated the highest sales.
